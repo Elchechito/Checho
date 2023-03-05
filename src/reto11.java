@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Reto1 {
+public class reto11 {
         public static void name(String [] args) throws Exception {
         Scanner lectura = new Scanner(System.in);
         double temperatura1, temperaturaF;
@@ -13,3 +13,5 @@ public class Reto1 {
 
     }
 }    
+
+
